@@ -1,5 +1,5 @@
 
-### Persönliche Daten <span class="right image">![](./foto-av.jpg =220x)</span>
+### Persönliche Daten <span class="image">![](./foto-av.jpg =220x)</span>
 Alex Jenter    
 Anwandstrasse 82  
 8004 Zürich
@@ -21,7 +21,7 @@ Anwandstrasse 82
 ##### Perspective Robotics <span class="right">jun '14 – nov '14</span>
 **Head of Design** – In dem noch jungen ETH Spin off von Sergei Lupashin war ich zuständig für verschiedenste Themen wie Entwurf und Prototypen für Gehäuse sowie erste Mock UP's. Daneben war ich gestalterisch beratend im Marketing und UI Bereich.
 
-##### This Weber Design Unlimited <span class="right">feb '14 – sep '14</span>
+##### This Weber <span class="right">feb '14 – sep '14</span>
 **Industrial Designer** – Durch meine Kenntnisse aus meiner Schreinerlehre war ich haupsächlich für Konstruktionsplanung und CAD Umsetzung in der Kollektion für Möbel Pfister zuständig. Die Arbeit als Inhouse Designer hatte für mich einen grossen Anreiz da ich mich innerhalb kurzer Zeit auf einen eingespielten Workflow einlassen musste. Mitgenommen habe ich *Kenntnisse in 3D Visualisierung den Adobe CC Produkten.*
 
 
@@ -31,20 +31,20 @@ Anwandstrasse 82
 ##### Christophe Marchand <span class="right">sep '12 – Mai '13</span>
 **Projekt Partner** – In einem internen Projekt des renomierten Möbeldesigners erhielt ich die Chance meine Ideen im Bereich *Automatisierte Variantenbildung* als Experiment in einem echten Businesscase zu testen.
 
-##### ZKB Nachhaltigkeitspreis für  kmu 2013 <span class="right">mai '12 – jun '12</span>
+##### ZKB <span class="right">mai '12 – jun '12</span>
 **Einzelauftrag** – Gewinner des Studentenwettbewerbes, Einzelauftrag zur Gestaltung der Trophäe für den ZKB Nachhaltigkeitspreis für KMU 2013
 
 ##### awtec <span class="right">jun '11 – aug '11</span>
 **Industriedesign Praktikant** – Skizzieren und Modellbau für Gangtrainer, Gestaltung des KTI Plakats, Konzeptskizzen von technischen und gestal- terischen Lösungsvarianten für humanoiden Roboter
 
-##### Norbert Lohrer Möbelschreinerei <span class="right">jun '11 – aug '11</span>
+##### Norbert Lohrer <span class="right">jun '11 – aug '11</span>
 **Möbelschreinerlehre** – Skizzieren und Modellbau für Gangtrainer, Gestaltung des KTI Plakats, Konzeptskizzen von technischen und gestal- terischen Lösungsvarianten für humanoiden Roboter
 
 
 ### Aus- und Weiterbildung
 ##### Studium Industrialdesign <span class="right">sep '09 – mai '12</span>
 BA of Arts Vertiefungsrichtung Industrial Design an der Zürcher Hochschule der Künste
-##### Technische Berufsmatura <span class="right">aug '08 – jun '09</span>
+##### Technische BMS <span class="right">aug '08 – jun '09</span>
 Gewerblich Industrielle Berufsschule Winterthur
 
 ### Schulbildung
