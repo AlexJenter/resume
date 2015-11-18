@@ -1,5 +1,3 @@
-![](./img/foto-av.jpg)
-
 ### Persönliche Daten
 Alex Jenter    
 Anwandstrasse 82  
@@ -11,7 +9,7 @@ Anwandstrasse 82
     <tr><td>Nationalität:</td> <td>Schweizer</td><tr>
     <tr><td>Geboren:</td>      <td>03.06.1980</td><tr>
     <tr><td>Zivilstand:</td>   <td>ledig</td><tr>
-    <tr><td>Kinde:</td>        <td>Keine</td><tr>
+    <tr><td>Kinder:</td>        <td>Keine</td><tr>
 </table>
 
 ### Beruflicher Werdegang
@@ -75,4 +73,3 @@ Primar- sowie Sekundarschule in Winterthur
 
 ### Persönliche Interessen
 Generatives Design, Polygonmodeling, digitale Fabrikation, kleinere Arduino Projekte
-<br><br><br><br><br><br><br><br><br><br>

@@ -15,7 +15,6 @@ body {
     line-height: 18px;
     color: #2c3e50;
     background-color: white;
-    padding: 10px 13px 10px 13px;
     box-sizing: border-box;
 
 }
@@ -59,24 +58,28 @@ h6 {
     text-transform: uppercase;
 }
 h1 {
-    margin-bottom: 18px;
-    font-size: 30px;
+  margin-bottom: 18px;
+  font-size: 30px;
 }
 h2 {
-    font-size: 24px;
+  font-size: 24px;
 }
 h3 {
-    font-size: 18px;
+  font-size: 18px;
+}
+h3:first-child {
+  padding-top: 0;
+  font-size: 18px;
 }
 h4 {
-    font-size: 16px;
+  font-size: 16px;
 }
 h5 {
     margin-left: 15px;
-    font-size: 14px;
+  font-size: 14px;
 }
 h6 {
-    font-size: 13px;
+  font-size: 13px;
 }
 hr {
     margin: 0 0 19px;
@@ -144,11 +147,19 @@ sup {
 }
 
 /* MY SHIT */
-
+h1 {
+  display: none;
+}
 .container {
   width: 600px;
   max-width: 100%;
+  padding: 0 15px;
   margin: 0 auto;
+  box-sizing: border-box;
+
+}
+.container-img {
+  padding: 10px 15px 0;
 }
 
 
@@ -158,16 +169,55 @@ sup {
   clear: both;
 }
 
-img {
-  width: 220px;
+.image {
+  display: block;
+  width: 200px;
   float: right;
-  right: 15px;
+  border-radius: 50%;
 }
-@media screen and (max-width: 640px) {
+
+footer {
+  text-align: center;
+}
+
+i {
+  color: #34495e;
+  margin: 0 0 19px;
+
+}
+
+@media screen and (max-width: 600px) {
     body {
-        width: 100%;
-        mar: 15px;
+      width: 100%;
     }
+    .container {
+      width: 100%;
+    }
+}
+@media screen and (max-width: 540px) {
+  .container-img {
+    position: relative;
+    padding: 0;
+  }
+  .image {
+    margin: 0 auto;
+    border-radius: 0;
+    width: 100%;
+  }
+  h3:first-child {
+    padding-top: 20px;
+    font-size: 18px;
+  }
+  h1 {
+    display: block;
+    position: absolute;
+    color: white;
+    font-size: 90px;
+    line-height: 90px;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+  }
 }
 /*
 @media print {
