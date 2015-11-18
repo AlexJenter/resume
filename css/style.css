@@ -15,7 +15,9 @@ body {
     line-height: 18px;
     color: #2c3e50;
     background-color: white;
-    margin: 10px 13px 10px 13px;
+    padding: 10px 13px 10px 13px;
+    box-sizing: border-box;
+
 }
 table {
 	margin: 10px 50px 15px 30px;
@@ -82,12 +84,6 @@ hr {
     border-bottom: 1px solid #ccc;
 }
 
-.right {
-  display: inline;
-  float: right;
-  clear: both;
-}
-
 blockquote {
     padding: 13px 13px 21px 15px;
     margin-bottom: 18px;
@@ -142,14 +138,35 @@ sup {
     line-height: 0;
 }
 * {
+  margin: 0;
+  padding: 0;
 	-webkit-print-color-adjust: exact;
 }
 
+/* MY SHIT */
 
-@media screen and (min-width: 914px) {
+.container {
+  width: 600px;
+  max-width: 100%;
+  margin: 0 15px;
+}
+
+
+.right {
+  display: inline;
+  float: right;
+  clear: both;
+}
+
+img {
+  width: 220px;
+  float: right;
+  right: 15px;
+}
+@media screen and (max-width: 640px) {
     body {
-        width: 854px;
-        margin:10px auto;
+        width: 100%;
+        mar: 15px;
     }
 }
 /*

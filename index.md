@@ -1,5 +1,6 @@
+![](./img/foto-av.jpg)
 
-### Persönliche Daten <span class="image">![](./foto-av.jpg =220x)</span>
+### Persönliche Daten
 Alex Jenter    
 Anwandstrasse 82  
 8004 Zürich
@@ -26,7 +27,7 @@ Anwandstrasse 82
 
 
 ##### ZHdK <span class="right">sep '13 – jan '14</span>
-**Wissenschaftlicher Mitarbeiter** – Aufgrund der in meiner Diplomarbeit erlangten Erfahrungen im Bereich des Generativen Designs hatte ich die Möglichkeit mich an der Hochschule mit Tools wie Rhino3D und Grasshopper beruflich auseinander zu setzen. Kern der Arbeit war es funktionale Oberflächenstrukturen zu entwerfen, konstruieren und anschliessend zu drucken. 
+**Wissenschaftlicher Mitarbeiter** – Aufgrund der in meiner Diplomarbeit erlangten Erfahrungen im Bereich des Generativen Designs hatte ich die Möglichkeit mich an der Hochschule mit Tools wie Rhino3D und Grasshopper beruflich auseinander zu setzen. Kern der Arbeit war es funktionale Oberflächenstrukturen zu entwerfen, konstruieren und anschliessend zu drucken.
 
 ##### Christophe Marchand <span class="right">sep '12 – Mai '13</span>
 **Projekt Partner** – In einem internen Projekt des renomierten Möbeldesigners erhielt ich die Chance meine Ideen im Bereich *Automatisierte Variantenbildung* als Experiment in einem echten Businesscase zu testen.
