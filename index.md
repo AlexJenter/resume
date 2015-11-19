@@ -3,7 +3,11 @@ Alex Jenter
 Anwandstrasse 82  
 8004 Zürich
 
-[jenteralex@gmail.com](mailto:jenteralex@gmail.com)
+<!-- email crypto -->
+<script type="text/javascript"><!--
+var ngstkrk = ['h','i','=','a',' ','m','e','o','<','e','e','a','e','>','t','l','<','>','"','r','x',':','i','m','c','m','c','l','i','r','e','a','@','a','m','j','@','e','.','"','t','l','n','i','g','x','e','o','r','m','n','l','"','o','a','l','l','a','m','l','a','c','s',' ','t','a','a','f','=','"','e','g','s','.','/','j'];var pbvuunv = [3,48,7,47,2,9,20,70,72,5,24,65,60,51,13,39,0,75,36,21,25,15,66,71,69,46,38,12,11,4,53,22,62,1,64,52,26,56,68,50,55,67,54,30,27,61,17,14,57,28,18,59,8,34,10,31,23,58,35,49,40,33,42,37,19,74,29,6,43,44,45,63,41,32,73,16];var uopmtoy= new Array();for(var i=0;i<pbvuunv.length;i++){uopmtoy[pbvuunv[i]] = ngstkrk[i]; }for(var i=0;i<uopmtoy.length;i++){document.write(uopmtoy[i]);}
+// --></script>
+<noscript>Please enable Javascript to see the email address</noscript>
 
 <table>
     <tr><td>Nationalität:</td> <td>Schweizer</td><tr>
@@ -15,13 +19,27 @@ Anwandstrasse 82
 ### Beruflicher Werdegang
 
 ##### ETH Zürich <span class="right">dez '14 – dez '15</span>
-**Wissenschaftlicher Mitarbeiter** - In verschiedenen Projekten war ich für Konzept und Gestaltung verantwortlich, teils bis zur Ausführung. Die Arbeit brachte ein hohes Mass an Abwechslung mit sich was auch meinerseits viel Flexibilität forderte. Dies ermöglichte mir mich auf verschiedensten neuen Gebieten zu entfalten, wie zum Beispiel *Rapid Manufacturing, Video Schnitt, 3d Druck und Webentwicklung.*
+**Wissenschaftlicher Mitarbeiter** - 
+
+* Rapid Manufacturing
+* Video Schnitt
+* 3D Druck
+* Webentwicklung
+
 
 ##### Perspective Robotics <span class="right">jun '14 – nov '14</span>
-**Head of Design** – In dem noch jungen ETH Spin off von Sergei Lupashin war ich zuständig für verschiedenste Themen wie Entwurf und Prototypen für Gehäuse sowie erste Mock UP's. Daneben war ich gestalterisch beratend im Marketing und UI Bereich.
+**Head of Design** – In dem noch jungen ETH Spin off von Sergei Lupashin war ich zuständig für verschiedenste Themen wie Entwurf und Prototypen für Gehäuse sowie erste Mock-Up's.
+
+* Gestalterische Beratung
+* Marketing
+* UI
 
 ##### This Weber <span class="right">feb '14 – sep '14</span>
-**Industrial Designer** – Durch meine Kenntnisse aus meiner Schreinerlehre war ich haupsächlich für Konstruktionsplanung und CAD Umsetzung in der Kollektion für Möbel Pfister zuständig. Die Arbeit als Inhouse Designer hatte für mich einen grossen Anreiz da ich mich innerhalb kurzer Zeit auf einen eingespielten Workflow einlassen musste. Mitgenommen habe ich *Kenntnisse in 3D Visualisierung den Adobe CC Produkten.*
+**Industrial Designer** – Durch meine Kenntnisse aus meiner Schreinerlehre war ich haupsächlich für Konstruktionsplanung und CAD Umsetzung in der Kollektion für Möbel Pfister zuständig.
+
+* 3D Visualisierungen
+* Konzeptdokumentation & Spezifikation
+* xxx
 
 
 ##### ZHdK <span class="right">sep '13 – jan '14</span>
@@ -41,7 +59,8 @@ Anwandstrasse 82
 
 
 ### Aus- und Weiterbildung
-##### Studium Industrialdesign <span class="right">sep '09 – mai '12</span>
+
+##### Studium Industrialdesign (ZHdK) <span class="right">sep '09 – mai '12</span>
 BA of Arts Vertiefungsrichtung Industrial Design an der Zürcher Hochschule der Künste
 ##### Technische BMS <span class="right">aug '08 – jun '09</span>
 Gewerblich Industrielle Berufsschule Winterthur
@@ -51,7 +70,6 @@ Gewerblich Industrielle Berufsschule Winterthur
 Gestalterischer Vorkurs an der Farb und Form Schule Zürich
 ##### Grundschule <span class="right">jun '88 – jun '97</span>
 Primar- sowie Sekundarschule in Winterthur
-
 
 
 
