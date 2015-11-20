@@ -19,7 +19,7 @@ var ngstkrk = ['h','i','=','a',' ','m','e','o','<','e','e','a','e','>','t','l','
 ### Beruf
 
 ##### <span class="date">dez '14 – dez '15</span><span class="titel">ETH Zürich</span>
-**Wissenschaftlicher Mitarbeiter** - sachverständig in Designfragen in der Gruppe für Produktentwicklung unter Prof. Mirko Meboldt.
+**Wissenschaftlicher Mitarbeiter** - Sachverständiger für Designfragen in der Gruppe für Produktentwicklung unter Prof. Mirko Meboldt.
 
 * Rapid Manufacturing
 * Video Schnitt
@@ -64,7 +64,7 @@ var ngstkrk = ['h','i','=','a',' ','m','e','o','<','e','e','a','e','>','t','l','
 * Konstruktionszeichnen
 
 ##### <span class="date">jun '11 – aug '11</span><span class="titel">Norbert Lohrer</span>
-**Möbelschreinerlehre** – als Lehrling in der Möbelschreinerei für Unikate und Kleinserien auch an Projekten im Innenausbau beteiligt.
+**Möbelschreinerlehre** – Als Lehrling in der Möbelschreinerei für Unikate und Kleinserien auch an Projekten im Innenausbau beteiligt.
 
 * Detailtreue
 * Serienfertigung
@@ -76,8 +76,16 @@ var ngstkrk = ['h','i','=','a',' ','m','e','o','<','e','e','a','e','>','t','l','
 
 ##### <span class="date">sep '09 – mai '12</span><span class="titel">Studium Industrialdesign (ZHdK)</span>
 BA of Arts Vertiefungsrichtung Industrial Design an der Zürcher Hochschule der Künste
+
 ##### <span class="date">aug '08 – jun '09</span><span class="titel">Technische BMS</span>
 Gewerblich Industrielle Berufsschule Winterthur
+
+##### <span class="date">aug '99 – aug '03</span><span class="titel">Berufslehre</span>
+Lehre zum Möbelschreiner an der Gewerblich Industriellen Berufsschule Winterthur
+
+##### <span class="date">aug '98 – aug '99</span><span class="titel">Sozialpraktikum</span>
+Sozialpraktikum als Betreuer in der Wohngemeinschaft Oase, Gais AR
+
 ##### <span class="date">jun '97 – jun '98</span><span class="titel">Vorkurs</span>
 Gestalterischer Vorkurs an der Farb und Form Schule Zürich
 

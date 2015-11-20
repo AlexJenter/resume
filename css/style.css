@@ -26,10 +26,12 @@ h3 {
   font-weight: 300;
   text-transform: uppercase;
 }
+
 h3:first-child {
   margin-top: 2rem;
 
 }
+
 h5 {
   margin-top: 2rem;
   margin-left: 1rem;
@@ -42,10 +44,12 @@ h5 {
 p {
   margin-left: 1rem;
 }
+
 table {
   margin-top: 0;
   margin-left: 0.9rem;
 }
+
 td:first-child {
   width: 9rem;
 }
@@ -53,6 +57,7 @@ td:first-child {
 a {
   color: #c0392b;
 }
+
 a:hover {
   text-decoration: none;
 }
@@ -60,9 +65,11 @@ a:hover {
 hr {
   margin-top: 3rem;
 }
+
 footer {
   text-align: center;
 }
+
 a i{
   text-decoration: none;
   color: #c0392b;
@@ -72,11 +79,13 @@ a i{
   display: inline-block;
   width: 9rem;
 }
+
 .container {
   width: 600px;
   max-width: 100%;
   margin: 0 auto;
 }
+
 @media screen and (max-width: 500px) {
   img {
     width: 7.5rem;
