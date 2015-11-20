@@ -1,211 +1,91 @@
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote {
-    margin: 0;
-    padding: 0;
+*:not(h3,h5,p,ul) {
+  padding: 0;
+  margin: 0;
 }
+
 body {
-    font-family: 'Lato';
-    font-size: 13px;
-    line-height: 18px;
-    color: #2c3e50;
-    background-color: white;
-    box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  color: #000;
+}
+
+img {
+  display: block;
+  width: 220px;
+  float: right;
+}
+
+ul {
+  //margin-left: 1em;
+}
+
+h3 {
+  margin-top: 4rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+h3:first-child {
+  margin-top: 2rem;
 
 }
+h5 {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+p {
+  margin-left: 1rem;
+}
 table {
-	margin: 10px 50px 15px 30px;
-  border-color: green;
-	border-collapse: collapse;
+  margin-top: 0;
+  margin-left: 0.9rem;
 }
-td,th {
-	padding: 0 10px 0 0;
-}
-th {
-	padding: 5px 10px;
+td:first-child {
+  width: 9rem;
 }
 
 a {
-  color: #34495e;
+  color: #c0392b;
 }
 a:hover {
-  color: #34495e;
   text-decoration: none;
 }
-a img {
-    border: none;
-}
-p {
-  margin: 0 0 0 30px;
-  margin-bottom: 9px;
-}
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    color: #34495e;
-    line-height: 36px;
-    font-weight: 200;
-    padding-top: 20px;
-    text-transform: uppercase;
-}
-h1 {
-  margin-bottom: 18px;
-  font-size: 30px;
-}
-h2 {
-  font-size: 24px;
-}
-h3 {
-  font-size: 18px;
-}
-h3:first-child {
-  padding-top: 0;
-  font-size: 18px;
-}
-h4 {
-  font-size: 16px;
-}
-h5 {
-    margin-left: 15px;
-  font-size: 14px;
-}
-h6 {
-  font-size: 13px;
-}
 hr {
-    margin: 0 0 19px;
-    border: 0;
-    border-bottom: 1px solid #ccc;
+  margin-top: 3rem;
 }
-
-blockquote {
-    padding: 13px 13px 21px 15px;
-    margin-bottom: 18px;
-    font-family:georgia,serif;
-    font-style: italic;
-}
-blockquote:before {
-    content:"\201C";
-    font-size:40px;
-    margin-left:-10px;
-    font-family:georgia,serif;
-    color:#eee;
-}
-blockquote p {
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 18px;
-    margin-bottom: 0;
-    font-style: italic;
-}
-code, pre {
-    font-family: Monaco, Andale Mono, Courier New, monospace;
-}
-code {
-    background-color: #fee9cc;
-    color: rgba(0, 0, 0, 0.75);
-    padding: 1px 3px;
-    font-size: 12px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-}
-pre {
-    display: block;
-    padding: 14px;
-    margin: 0 0 18px;
-    line-height: 16px;
-    font-size: 11px;
-    border: 1px solid #d9d9d9;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-}
-pre code {
-    background-color: #fff;
-    color:#737373;
-    font-size: 11px;
-    padding: 0;
-}
-sup {
-    font-size: 0.83em;
-    vertical-align: super;
-    line-height: 0;
-}
-* {
-  margin: 0;
-  padding: 0;
-	-webkit-print-color-adjust: exact;
-}
-
-/* MY SHIT */
-.container {
-  width: 600px;
-  max-width: 100%;
-  padding: 0 15px;
-  margin: 0 auto;
-  box-sizing: border-box;
-
-}
-.container-img {
-  padding: 15px 15px 0;
-}
-
-
-.right {
-  display: inline;
-  float: right;
-  clear: both;
-}
-
-.image {
-  display: block;
-  width: 200px;
-  float: right;
-  border-radius: 50%;
-}
-
 footer {
   text-align: center;
 }
-
-i {
-  color: #34495e;
-  margin: 0 0 19px;
-
+a i{
+  text-decoration: none;
+  color: #c0392b;
 }
 
-
-@media screen and (max-width: 440px) {
-  .container-img {
-    position: relative;
-    padding: 0;
+.date {
+  display: inline-block;
+  width: 9rem;
+}
+.container {
+  width: 600px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+@media screen and (max-width: 500px) {
+  img {
+    width: 7.5rem;
   }
-  .image {
-    margin: 0 auto;
-    border-radius: 0;
-    width: 100%;
-  margin-bottom: 15px;
+  .titel {
+    display: block;
+    margin-top: 0.2rem;
   }
-  h3:first-child {
-    padding-top: 20px;
-    font-size: 18px;
+  td:first-child {
+    width: 7rem;
   }
 }
-/*
-@media print {
-	body,code,pre code,h1,h2,h3,h4,h5,h6 {
-		color: black;
-	}
-	table, pre {
-		page-break-inside: avoid;
-	}
-}*/

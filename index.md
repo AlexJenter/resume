@@ -1,4 +1,4 @@
-### Persönliche Daten
+### Person
 Alex Jenter    
 Anwandstrasse 82  
 8004 Zürich
@@ -16,78 +16,101 @@ var ngstkrk = ['h','i','=','a',' ','m','e','o','<','e','e','a','e','>','t','l','
     <tr><td>Kinder:</td>        <td>Keine</td><tr>
 </table>
 
-### Beruflicher Werdegang
+### Beruf
 
-##### ETH Zürich <span class="right">dez '14 – dez '15</span>
-**Wissenschaftlicher Mitarbeiter** - 
+##### <span class="date">dez '14 – dez '15</span><span class="titel">ETH Zürich</span>
+**Wissenschaftlicher Mitarbeiter** - sachverständig in Designfragen in der Gruppe für Produktentwicklung unter Prof. Mirko Meboldt.
 
 * Rapid Manufacturing
 * Video Schnitt
 * 3D Druck
 * Webentwicklung
 
-
-##### Perspective Robotics <span class="right">jun '14 – nov '14</span>
+##### <span class="date">jun '14 – nov '14</span><span class="titel">Perspective Robotics</span>
 **Head of Design** – In dem noch jungen ETH Spin off von Sergei Lupashin war ich zuständig für verschiedenste Themen wie Entwurf und Prototypen für Gehäuse sowie erste Mock-Up's.
 
 * Gestalterische Beratung
 * Marketing
 * UI
 
-##### This Weber <span class="right">feb '14 – sep '14</span>
-**Industrial Designer** – Durch meine Kenntnisse aus meiner Schreinerlehre war ich haupsächlich für Konstruktionsplanung und CAD Umsetzung in der Kollektion für Möbel Pfister zuständig.
+##### <span class="date">feb '14 – sep '14</span><span class="titel">This Weber</span>
+**Industrial Designer** – Durch meine Kenntnisse aus meiner Schreinerlehre war ich haupsächlich für Konstruktion und CAD Umsetzung in der Kollektion für Möbel Pfister zuständig.
 
 * 3D Visualisierungen
 * Konzeptdokumentation & Spezifikation
-* xxx
 
+##### <span class="date">sep '13 – jan '14</span><span class="titel">ZHdK</span>
+**Wissenschaftlicher Mitarbeiter** – Aufgrund der Erfahrungen im Bereich des Generativen Designs hatte ich die Möglichkeit an der Hochschule Tools wie Rhino3D und Grasshopper beruflich zu nutzen.
 
-##### ZHdK <span class="right">sep '13 – jan '14</span>
-**Wissenschaftlicher Mitarbeiter** – Aufgrund der in meiner Diplomarbeit erlangten Erfahrungen im Bereich des Generativen Designs hatte ich die Möglichkeit mich an der Hochschule mit Tools wie Rhino3D und Grasshopper beruflich auseinander zu setzen. Kern der Arbeit war es funktionale Oberflächenstrukturen zu entwerfen, konstruieren und anschliessend zu drucken.
+* Workflow automatisierung
+* Experimentelle Herangehensweise
 
-##### Christophe Marchand <span class="right">sep '12 – Mai '13</span>
-**Projekt Partner** – In einem internen Projekt des renomierten Möbeldesigners erhielt ich die Chance meine Ideen im Bereich *Automatisierte Variantenbildung* als Experiment in einem echten Businesscase zu testen.
+##### <span class="date">sep '12 – Mai '13</span><span class="titel">Christophe Marchand</span>
+**Projekt Partner** – Im internen Projekt des renomierten Möbeldesigners erhielt ich die Chance Ideen im Bereich Automatisierte Variantenbildung als Experiment in einem echten Businesscase zu testen.
 
-##### ZKB <span class="right">mai '12 – jun '12</span>
+* Generatives Design
+
+##### <span class="date">mai '12 – jun '12</span><span class="titel">ZKB</span>
 **Einzelauftrag** – Gewinner des Studentenwettbewerbes, Einzelauftrag zur Gestaltung der Trophäe für den ZKB Nachhaltigkeitspreis für KMU 2013
 
-##### awtec <span class="right">jun '11 – aug '11</span>
+* 3D Druck zur Gussformherstellung
+* Giesstechniken
+* Kundenbetreung
+
+##### <span class="date">jun '11 – aug '11</span><span class="titel">awtec</span>
 **Industriedesign Praktikant** – Skizzieren und Modellbau für Gangtrainer, Gestaltung des KTI Plakats, Konzeptskizzen von technischen und gestal- terischen Lösungsvarianten für humanoiden Roboter
 
-##### Norbert Lohrer <span class="right">jun '11 – aug '11</span>
-**Möbelschreinerlehre** – Skizzieren und Modellbau für Gangtrainer, Gestaltung des KTI Plakats, Konzeptskizzen von technischen und gestal- terischen Lösungsvarianten für humanoiden Roboter
+* Projektarbeit im Betrieb
+* Konstruktionszeichnen
+
+##### <span class="date">jun '11 – aug '11</span><span class="titel">Norbert Lohrer</span>
+**Möbelschreinerlehre** – als Lehrling in der Möbelschreinerei für Unikate und Kleinserien auch an Projekten im Innenausbau beteiligt.
+
+* Detailtreue
+* Serienfertigung
 
 
-### Aus- und Weiterbildung
 
-##### Studium Industrialdesign (ZHdK) <span class="right">sep '09 – mai '12</span>
+
+### Bildung
+
+##### <span class="date">sep '09 – mai '12</span><span class="titel">Studium Industrialdesign (ZHdK)</span>
 BA of Arts Vertiefungsrichtung Industrial Design an der Zürcher Hochschule der Künste
-##### Technische BMS <span class="right">aug '08 – jun '09</span>
+##### <span class="date">aug '08 – jun '09</span><span class="titel">Technische BMS</span>
 Gewerblich Industrielle Berufsschule Winterthur
-
-### Schulbildung
-##### Vorkurs <span class="right">jun '97 – jun '98</span>
+##### <span class="date">jun '97 – jun '98</span><span class="titel">Vorkurs</span>
 Gestalterischer Vorkurs an der Farb und Form Schule Zürich
-##### Grundschule <span class="right">jun '88 – jun '97</span>
-Primar- sowie Sekundarschule in Winterthur
+
+### Schule
+##### <span class="date">jun '94 – jun '97</span><span class="titel">Sekundarschule</span>
+Winterthur Seen
+##### <span class="date">jun '88 – jun '94</span><span class="titel">Primarschule</span>
+Winterthur Seen
 
 
 
-### Sprachkenntnisse
+### Sprache
 <table>
     <tr><td>Deutsch</td>      <td>Muttersprache</td><tr>
     <tr><td>English</td>      <td>Konversationssicher</td><tr>
     <tr><td>Französisch</td>  <td>Grundkenntnisse</td><tr>
 </table>
 
-### Spezifische berufliche Kenntnisse
+### Fähigkeit
+##### Design
 <table>
-    <tr><td>Solidworks</td>     <td>●●●●●●●●<span style="color: #bdc3c7;">●●</td><tr>
-    <tr><td>Rhino3D</td>        <td>●●●●●●●<span style="color: #bdc3c7;">●●●</td><tr>
-    <tr><td>Grasshopper3D</td>  <td>●●●●●●●●<span style="color: #bdc3c7;">●●</td><tr>
-    <tr><td>Adobe CC</td>       <td>●●●●●●●●●<span style="color: #bdc3c7;">●</td><tr>        
-    <tr><td>Cinema4d</td>       <td>●●●●●●<span style="color: #bdc3c7;">●●●●</td><tr>
+    <tr><td>Solidworks</td>     <td>●●●●●●●●<span style="color: #bdc3c7;">●●</span></td><tr>
+    <tr><td>Rhino3D</td>        <td>●●●●●●●<span style="color: #bdc3c7;">●●●</span></td><tr>
+    <tr><td>Grasshopper3D</td>  <td>●●●●●●●●<span style="color: #bdc3c7;">●●</span></td><tr>
+    <tr><td>Adobe CC</td>       <td>●●●●●●●●●<span style="color: #bdc3c7;">●</span></td><tr>
+    <tr><td>Cinema4d</td>       <td>●●●●●●<span style="color: #bdc3c7;">●●●●</span></td><tr>
 </table>
 
-### Persönliche Interessen
-Generatives Design, Polygonmodeling, digitale Fabrikation, kleinere Arduino Projekte
+##### code
+<table>
+    <tr><td>html5</td>      <td>●●●●●●<span style="color: #bdc3c7;">●●●●</span></td><tr>
+    <tr><td>css3</td>       <td>●●●●●●<span style="color: #bdc3c7;">●●●●</span></td><tr>
+    <tr><td>Python</td>     <td>●●●●●●<span style="color: #bdc3c7;">●●●●</span></td><tr>
+    <tr><td>Javascript</td> <td>●●●●●<span style="color: #bdc3c7;">●●●●●</span></td><tr>
+    <tr><td>jquery</td>     <td>●●●●<span style="color: #bdc3c7;">●●●●●●</span></td><tr>
+</table>
