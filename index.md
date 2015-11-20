@@ -89,14 +89,14 @@ Winterthur Seen
 
 
 
-### Sprache
+### Sprachen
 <table>
     <tr><td>Deutsch</td>      <td>Muttersprache</td><tr>
     <tr><td>English</td>      <td>Konversationssicher</td><tr>
     <tr><td>Französisch</td>  <td>Grundkenntnisse</td><tr>
 </table>
 
-### Fähigkeit
+### Fähigkeiten
 ##### Design
 <table>
     <tr><td>Solidworks</td>     <td>●●●●●●●●<span style="color: #bdc3c7;">●●</span></td><tr>
