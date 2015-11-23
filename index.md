@@ -107,18 +107,18 @@ Winterthur Seen
 ### Fähigkeiten
 ##### Design
 <table>
-    <tr><td>Solidworks</td>     <td>●●●●●●●●<span style="color: #bdc3c7;">●●</span></td><tr>
-    <tr><td>Rhino3D</td>        <td>●●●●●●●<span style="color: #bdc3c7;">●●●</span></td><tr>
-    <tr><td>Grasshopper3D</td>  <td>●●●●●●●●<span style="color: #bdc3c7;">●●</span></td><tr>
-    <tr><td>Adobe CC</td>       <td>●●●●●●●●●<span style="color: #bdc3c7;">●</span></td><tr>
-    <tr><td>Cinema4d</td>       <td>●●●●●●<span style="color: #bdc3c7;">●●●●</span></td><tr>
+    <tr><td>Solidworks</td>     <td>●●●●●●●●<span style="color: #B2DFDB;">●●</span></td><tr>
+    <tr><td>Rhino3D</td>        <td>●●●●●●●<span style="color: #B2DFDB;">●●●</span></td><tr>
+    <tr><td>Grasshopper3D</td>  <td>●●●●●●●●<span style="color: #B2DFDB;">●●</span></td><tr>
+    <tr><td>Adobe CC</td>       <td>●●●●●●●●●<span style="color: #B2DFDB;">●</span></td><tr>
+    <tr><td>Cinema4d</td>       <td>●●●●●●<span style="color: #B2DFDB;">●●●●</span></td><tr>
 </table>
 
 ##### code
 <table>
-    <tr><td>html5</td>      <td>●●●●●●<span style="color: #bdc3c7;">●●●●</span></td><tr>
-    <tr><td>css3</td>       <td>●●●●●●<span style="color: #bdc3c7;">●●●●</span></td><tr>
-    <tr><td>Python</td>     <td>●●●●●●<span style="color: #bdc3c7;">●●●●</span></td><tr>
-    <tr><td>Javascript</td> <td>●●●●●<span style="color: #bdc3c7;">●●●●●</span></td><tr>
-    <tr><td>jquery</td>     <td>●●●●<span style="color: #bdc3c7;">●●●●●●</span></td><tr>
+    <tr><td>html5</td>      <td>●●●●●●<span style="color: #B2DFDB;">●●●●</span></td><tr>
+    <tr><td>css3</td>       <td>●●●●●●<span style="color: #B2DFDB;">●●●●</span></td><tr>
+    <tr><td>Python</td>     <td>●●●●●●<span style="color: #B2DFDB;">●●●●</span></td><tr>
+    <tr><td>Javascript</td> <td>●●●●●<span style="color: #B2DFDB;">●●●●●</span></td><tr>
+    <tr><td>jquery</td>     <td>●●●●<span style="color: #B2DFDB;">●●●●●●</span></td><tr>
 </table>

@@ -55,7 +55,7 @@ td:first-child {
 }
 
 a {
-  color: #c0392b;
+  color: #26A69A;
 }
 
 a:hover {
@@ -72,7 +72,7 @@ footer {
 
 a i{
   text-decoration: none;
-  color: #c0392b;
+  color: ##26A69A;
 }
 
 .date {
@@ -81,9 +81,38 @@ a i{
 }
 
 .container {
+  position: relative;
   width: 600px;
   max-width: 100%;
   margin: 0 auto;
+}
+
+#dload {
+  position: absolute;
+  cursor: pointer;
+  cursor: hand;
+  left:0;
+  bottom: 0;
+}
+#dload i{
+  position: absolute;
+  cursor: pointer;
+  left: 65px;
+  bottom:5px;
+}
+
+#share-buttons {
+  display: block;
+  cursor: pointer;
+  position: absolute;
+  right: 26px;
+  bottom: 0;
+}
+#share-buttons i {
+  cursor: pointer;
+  position: absolute;
+  right: -26px;
+  bottom:3px;
 }
 
 @media screen and (max-width: 500px) {
